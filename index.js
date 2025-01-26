@@ -1,9 +1,9 @@
-function gitlover(name, surname) {
-    console.log(name, surname)
+function gitlover(name, surname,date) {
+    console.log(name, surname,date)
     }
     //I like it
     
-    gitlover('Antonia', "Git");
+    gitlover('Antonia', "Git", 'date');
     
     //Rebase testing1
     //Reb3 coflict10012
