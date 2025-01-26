@@ -1,7 +1,7 @@
-function gitlover() {
-    console.log('Hello!I wanna crush you!')
+function gitlover(name, surname) {
+    console.log(name, surname)
     }
     
-    gitlover();
+    gitlover('Antonia', "Git");
     
     
