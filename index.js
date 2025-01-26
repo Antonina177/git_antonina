@@ -1,7 +1,7 @@
-function test() {
-    console.log('Hello!')
+function gitlover() {
+    console.log('Hello!I wanna crush you!')
     }
     
-    test();
+    gitlover();
     
     
