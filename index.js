@@ -1,6 +1,7 @@
-function sayHi() {
-    console.log('Hello!How are u?')
+function test() {
+    console.log('Hello!')
     }
     
-    sayHello();
+    test();
+    
     
