@@ -36,6 +36,7 @@ export default [
                 }
             ],
             'brace-style': ['warn'],
+            'prefer-const': 'error',
             'comma-dangle': ['error', 'never'],
             'no-multiple-empty-lines': ['error', { max: 2 }],
             'no-trailing-spaces': ['error', { skipBlankLines: false }],
